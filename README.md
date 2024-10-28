@@ -13,7 +13,7 @@
 - 🏢 **Digital IC Design Engineer**
 - 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies in **Digital IC Design, ASIC Flow,** and **HDL programming**.
 - 💬 **Ask me about:** Verilog, HDL, ASIC flow, or anything related to IC Design. I’m happy to share my experience with **RTL Design, Synthesis, and Simulation**.
-- ⚡ **Fun Fact:** My math isn't mathing, therefore my brain isn't braining.
+- ⚡ **Fun Fact:** IC Design is like building a city on a chip**.
 - 🎥 **Check out my** [YouTube Channel](https://www.youtube.com/@ahmed.tawfik22) **for tutorials and projects in IC design, including ASIC flow demonstrations and HDL coding practices.**
 
 ---
